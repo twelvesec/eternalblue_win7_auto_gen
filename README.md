@@ -9,3 +9,6 @@ eternalblue_win7_auto_gen is a bash script which auto generates & merging shellc
 * nasm
 * git
 
+## Details about procedure
+
+More info here: https://root4loot.com/post/eternalblue_manual_exploit/
