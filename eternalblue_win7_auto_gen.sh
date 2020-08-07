@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#created with <3 by nickvourd of twelevesec
+#created with <3 by @nickvourd of @twelvesec
 
 #requirements: git, msfvenom 
 #For msfvenom module install msfconsole.
