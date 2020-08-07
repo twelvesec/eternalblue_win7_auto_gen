@@ -6,6 +6,6 @@ eternalblue_win7_auto_gen is a bash script which auto generates & merging shellc
 
 * python
 * msfvenom
-* nsm
+* nasm
 * git
 
